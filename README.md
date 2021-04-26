@@ -1,4 +1,4 @@
-# Backend Foro Spring Boot
+# Backend Reddit Spring Boot
 
 Backend del Foro hecho en Spring Boot
 
